@@ -1,0 +1,5 @@
+Gra ma jeszcze parê b³êdów, które postaram siê naprawiæ.
+m. in.
+wpisanie litery powoduje zaciêcie gry.
+blokade po wpisaniu 2 b³êdnej liczby.
+//zobaczy siê
